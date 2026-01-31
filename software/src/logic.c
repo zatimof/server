@@ -119,6 +119,8 @@ void logic(void)
 	{
 		case OFF_S: //OFF
 	
+			FAN_OFF;
+			
 			if(((last_code[1] == 6) && (last_code[0] == 4)) || ((last_code[0] == 6) && (last_code[1] == 4)))
 				if((dur[0] == 1) && (dur[1] == 1))
 					serv_state = IDLE;
@@ -133,6 +135,9 @@ void logic(void)
 			break;
 			
 		case 1: //IDLE
+			
+			FAN_OFF;
+			
 			if(last_code[cur_code] == 0)
 				serv_state = OFF_S;
 			
@@ -150,6 +155,9 @@ void logic(void)
 			break;	
 			
 		case 2: //START
+			
+			FAN_ON;
+			
 			if(last_code[cur_code] == 0)
 				serv_state = OFF_S;
 			
@@ -162,6 +170,9 @@ void logic(void)
 			break;
 			
 		case 3: //ACTIVE
+			
+			FAN_ON;
+			
 			if(last_code[cur_code] == 0)
 				serv_state = OFF_S;
 			

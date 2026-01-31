@@ -1,4 +1,3 @@
-
 #define NCYCLE 20 					//количество циклов на длинное нажатие
 
 #define ADC_CH 5,6,7			//сканируемые каналы АЦП
@@ -11,6 +10,9 @@
 
 #define BEEP_ON PORTC&=0xF7
 #define BEEP_OFF PORTC|=0x08
+
+#define FAN_OFF PORTC&=0xFE
+#define FAN_ON PORTC|=0x01
 
 #define BUTTON PINC & 0x02		//TEST BUTTON
 

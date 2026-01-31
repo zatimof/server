@@ -24,7 +24,7 @@
     <Windows>
       
       
-    <Wnd2>
+    <Wnd0>
         <Tabs>
           <Tab>
             <Identity>TabID-31063-22167</Identity>
@@ -36,7 +36,7 @@
           </Tab>
         </Tabs>
         
-      <SelectedTab>0</SelectedTab></Wnd2><Wnd3>
+      <SelectedTab>0</SelectedTab></Wnd0><Wnd1>
         <Tabs>
           <Tab>
             <Identity>TabID-15881-25727</Identity>
@@ -46,20 +46,20 @@
           </Tab>
         </Tabs>
         
-      <SelectedTab>0</SelectedTab></Wnd3></Windows>
+      <SelectedTab>0</SelectedTab></Wnd1></Windows>
     <Editor>
       
       
       
       
-    <Pane><Tab><Factory>TextEditor</Factory><Filename>D:\PROJECTS\server\soft\server.c</Filename><XPos>0</XPos><YPos>16</YPos><SelStart>1425</SelStart><SelEnd>1425</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\PROJECTS\server\soft\src\display.c</Filename><XPos>0</XPos><YPos>137</YPos><SelStart>3250</SelStart><SelEnd>3250</SelEnd></Tab><ActiveTab>1</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>D:\PROJECTS\server\soft\src\logic.c</Filename><XPos>0</XPos><YPos>60</YPos><SelStart>1462</SelStart><SelEnd>1462</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\PROJECTS\server\soft\server.h</Filename><XPos>0</XPos><YPos>3</YPos><SelStart>520</SelStart><SelEnd>520</SelEnd></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>D:\PROJECTS\server\soft\server.c</Filename><XPos>0</XPos><YPos>234</YPos><SelStart>6540</SelStart><SelEnd>6540</SelEnd></Tab><ActiveTab>0</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>D:\PROJECTS\server\soft\src\display.c</Filename><XPos>0</XPos><YPos>119</YPos><SelStart>3250</SelStart><SelEnd>3250</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\PROJECTS\server\soft\src\logic.c</Filename><XPos>0</XPos><YPos>153</YPos><SelStart>3118</SelStart><SelEnd>3118</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\PROJECTS\server\soft\server.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>361</SelStart><SelEnd>361</SelEnd></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
     <Positions>
       
       
       
       
       
-    <Top><Row0><Sizes><Toolbar-0019faa8><key>iaridepm.enu1</key></Toolbar-0019faa8></Sizes></Row0></Top><Left><Row0><Sizes><Wnd2><Rect><Top>-2</Top><Left>-2</Left><Bottom>507</Bottom><Right>251</Right><x>-2</x><y>-2</y><xscreen>182</xscreen><yscreen>150</yscreen><sizeHorzCX>142188</sizeHorzCX><sizeHorzCY>204360</sizeHorzCY><sizeVertCX>197656</sizeVertCX><sizeVertCY>693460</sizeVertCY></Rect></Wnd2></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd3><Rect><Top>-2</Top><Left>-2</Left><Bottom>183</Bottom><Right>1282</Right><x>-2</x><y>-2</y><xscreen>1284</xscreen><yscreen>185</yscreen><sizeHorzCX>1003125</sizeHorzCX><sizeHorzCY>252044</sizeHorzCY><sizeVertCX>142188</sizeVertCX><sizeVertCY>204360</sizeVertCY></Rect></Wnd3></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+    <Top><Row0><Sizes><Toolbar-0253faa8><key>iaridepm.enu1</key></Toolbar-0253faa8></Sizes></Row0></Top><Left><Row0><Sizes><Wnd0><Rect><Top>-2</Top><Left>-2</Left><Bottom>507</Bottom><Right>251</Right><x>-2</x><y>-2</y><xscreen>182</xscreen><yscreen>150</yscreen><sizeHorzCX>142188</sizeHorzCX><sizeHorzCY>204360</sizeHorzCY><sizeVertCX>197656</sizeVertCX><sizeVertCY>693460</sizeVertCY></Rect></Wnd0></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd1><Rect><Top>-2</Top><Left>-2</Left><Bottom>183</Bottom><Right>1282</Right><x>-2</x><y>-2</y><xscreen>1284</xscreen><yscreen>185</yscreen><sizeHorzCX>1003125</sizeHorzCX><sizeHorzCY>252044</sizeHorzCY><sizeVertCX>142188</sizeVertCX><sizeVertCY>204360</sizeVertCY></Rect></Wnd1></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
   </Desktop>
 </Workspace>
 
